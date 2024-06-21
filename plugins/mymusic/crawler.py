@@ -10,10 +10,12 @@ headers = {
 def search_song(song_name, return_limit=10):
     # 这是一个api接口
     # 参考自 https://www.showdoc.com.cn/ncj114514/9383824409721446
+    # 先在失效啦，返回的东西好像是加了密还是什么的
     search_url = f"http://music.163.com/api/search/get/web?csrf_token=hlpretag=&hlposttag=&s={song_name}&type=1&offset=0&total=true&limit={return_limit}"
     response = requests.get(url=search_url, headers=headers)
     # 如果成功，返回的应该是一个json列表
-    json_dic = json.loads(response.text)
+    json_dic = json.loads(response.text.encode('utf-8'))
+    print(json_dic)
     songs = json_dic['result']['songs']
     print(f'总共搜索到{len(songs)}首歌曲!')
     return songs

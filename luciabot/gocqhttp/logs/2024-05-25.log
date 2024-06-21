@@ -1,0 +1,31 @@
+[2024-05-25 16:24:11] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2024-05-25 16:24:11] [WARNING]: 将在 5秒 后继续. 
+[2024-05-25 16:24:16] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2024-05-25 16:24:16] [WARNING]: no usable sign server 
+[2024-05-25 16:24:16] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2024-05-25 16:24:21] [WARNING]: 当前协议不支持二维码登录, 请配置账号密码登录. 
+[2024-05-25 16:26:34] [WARNING]: no usable sign server 
+[2024-05-25 16:26:34] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2024-05-25 16:26:40] [WARNING]: 登录需要滑条验证码, 请验证后重试. 
+[2024-05-25 16:26:40] [WARNING]: 请选择提交滑块ticket方式: 
+[2024-05-25 16:26:40] [WARNING]: 1. 自动提交 
+[2024-05-25 16:26:40] [WARNING]: 2. 手动抓取提交 
+[2024-05-25 16:26:40] [WARNING]: 请输入(1 - 2)： 
+[2024-05-25 16:26:50] [WARNING]: 请前往该地址验证 -> https://ti.qq.com/safe/tools/captcha/sms-verify-login?aid=16&uin=2726717369&sid=3720471780713930944&cap_cd=fSkAr4-EW5W-fu67A6k9_lHiCAhmdoLL5qfyUp8PjAW3n3Ikbvnr6A**&clientype=1&apptype=2  
+[2024-05-25 16:26:50] [WARNING]: 请输入ticket： (Enter 提交) 
+[2024-05-25 16:27:36] [WARNING]: no usable sign server 
+[2024-05-25 16:27:36] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2024-05-25 16:27:42] [WARNING]: 登录需要滑条验证码, 请验证后重试. 
+[2024-05-25 16:27:42] [WARNING]: 请选择提交滑块ticket方式: 
+[2024-05-25 16:27:42] [WARNING]: 1. 自动提交 
+[2024-05-25 16:27:42] [WARNING]: 2. 手动抓取提交 
+[2024-05-25 16:27:42] [WARNING]: 请输入(1 - 2)： 
+[2024-05-25 16:27:44] [WARNING]: 请前往该地址验证 -> https://ti.qq.com/safe/tools/captcha/sms-verify-login?aid=16&uin=2726717369&sid=3530247262562263294&cap_cd=dJgaYodlm-NAAG_QuDzmxQ8rXXa1x11XVPP5W_8P5i1M4Wsnr0NOAg**&clientype=1&apptype=2  
+[2024-05-25 16:29:37] [WARNING]: no usable sign server 
+[2024-05-25 16:29:37] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2024-05-25 16:29:43] [WARNING]: 登录需要滑条验证码, 请验证后重试. 
+[2024-05-25 16:29:43] [WARNING]: 请选择提交滑块ticket方式: 
+[2024-05-25 16:29:43] [WARNING]: 1. 自动提交 
+[2024-05-25 16:29:43] [WARNING]: 2. 手动抓取提交 
+[2024-05-25 16:29:43] [WARNING]: 请输入(1 - 2)： 
+[2024-05-25 16:29:57] [WARNING]: 请前往该地址验证 -> https://ti.qq.com/safe/tools/captcha/sms-verify-login?aid=16&uin=2726717369&sid=4310756323346194807&cap_cd=oRxIspyHJn0qEf3Kd0Gk2E435Ejnjhj2VMbxAxpNxMRHqSVm5-E6JQ**&clientype=1&apptype=2  

@@ -31,6 +31,7 @@ class MusicBox(QMainWindow, myui.Ui_MainWindow):
         self.soundSlider.setMinimum(0)
         self.soundSlider.setMaximum(100)
         self.soundSlider.sliderMoved.connect(self.songDrag)
+        self.setStyleSheet('background-color: #c95762')
         self.timer = QTimer(self)
         self.playedTime = 0  # 已播放时间
         self.totlaTime = 0   # 当前歌曲的时间总长，以ms为单位
